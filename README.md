@@ -70,7 +70,7 @@ for detecting your images.
 @article{zou2021rw,
   title={Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning},
   author={Liwen Zou, XinHang Luo, Delu Zeng, Liming Ling and Li-Chen Zhao},
-  booktitle={PRE},
+  journaltitle={Physical Review E},
   year={2021}
 }
 ```
