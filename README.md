@@ -54,7 +54,15 @@ for testing. Finally, for evalutation you can run
 python 5_eval.py
 ```
 
-4.Citation
+4.Inference
+--
+For inference, you can run
+```
+python 6_predict.py
+```
+for detecting your images.
+
+5.Citation
 --
 ```
 @article{zou2021rw,
@@ -65,11 +73,11 @@ python 5_eval.py
 }
 ```
 
-5.Acknowledgements
+6.Acknowledgements
 --
 Part of codes are reused from the [SKU110K](https://github.com/eg4000/SKU110K_CVPR19). Thanks to Eran Goldman et.al for the codes of SKU-110K detector.
 
-6.Contact
+7.Contact
 --
 Liwen Zou([3395473905@qq.com](3395473905@qq.com))
 
