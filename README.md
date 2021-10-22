@@ -6,7 +6,9 @@ This is the official implement of the RWD-Net from the paper [Measuring the rogu
 Requirements
 ==
 Python 3.7
+
 Tensorflow-gpu==1.13.1
+
 Keras==2.1.5
 
 Usage
