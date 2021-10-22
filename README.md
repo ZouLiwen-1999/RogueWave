@@ -14,7 +14,7 @@ Usage
 
 0.RWD-10K Dataset Preparation
 --
-We release the RWD-10K dataset which has 10191 rogue wave images. All the images are named as $aXeYuZ$ where X, Y and Z are the value of $a$, $\epsilon$ and $\mu$ of the initial equation. One .jpg image file corresponds to one .xml file which contains the bounding boxes annotation of the origin images for the rogue wave detection. You can see more details about the dataset in our paper above. You can download the RWD-10K dataset [here](https://drive.google.com/file/d/1CdpY5Xco4TnRY0DIryRbhexJB_dTsDGA/view?usp=sharing). If you use this dataset for your research, please cite our paper. 
+We release the RWD-10K dataset which has 10191 rogue wave images. All the images are named as aXeYuZ where X, Y and Z are the orresponding parameter values in the initial equation. One .jpg image file corresponds to one .xml file which contains the bounding boxes annotation of the origin images for the rogue wave detection. You can see more details about the dataset in our paper above. You can download the RWD-10K dataset [here](https://drive.google.com/file/d/1CdpY5Xco4TnRY0DIryRbhexJB_dTsDGA/view?usp=sharing). If you use this dataset for your research, please cite our paper. 
 
 Once you download the RWD-10K dataset, create the following folders and put the images at `RogueWaves/images` and put the xml files at `RogueWaves/xmls` and run
 ```
@@ -75,7 +75,7 @@ for detecting your images.
 
 6.Acknowledgements
 --
-Part of codes are reused from the [SKU110K](https://github.com/eg4000/SKU110K_CVPR19). Thanks to Eran Goldman et.al for the codes of SKU-110K detector.
+Part of codes are reused from the [SKU110K](https://github.com/eg4000/SKU110K_CVPR19). Thanks to Eran Goldman et al. for the codes of SKU-110K detector.
 
 7.Contact
 --
