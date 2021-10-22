@@ -25,6 +25,7 @@ python 0_gencsv.py
 And the data splits are saved in `RogueWave/Annotations`.
 
 1.Train
+--
 cd RogueWave/ and run
 ```
 python 1_train.py
