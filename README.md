@@ -68,10 +68,10 @@ for detecting your images.
 5.Citation
 --
 ```
-@article{zou2021rw,
+@article{zou2021measuring,
   title={Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning},
   author={Liwen Zou, XinHang Luo, Delu Zeng, Liming Ling and Li-Chen Zhao},
-  journaltitle={Physical Review E},
+  journal={arXiv preprint arXiv:2109.08909},
   year={2021}
 }
 ```
