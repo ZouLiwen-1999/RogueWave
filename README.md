@@ -82,5 +82,5 @@ Part of codes are reused from the [SKU110K](https://github.com/eg4000/SKU110K_CV
 
 7.Contact
 --
-Liwen Zou[zouliwen1999@outlook.com](zouliwen1999@outlook.com)
+Liwen Zou[(zouliwen1999@outlook.com)](zouliwen1999@outlook.com)
 
