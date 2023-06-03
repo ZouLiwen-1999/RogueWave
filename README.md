@@ -1,7 +1,7 @@
 Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning
 ==
 
-This is the official implement of the RWD-Net from the paper [Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning.]([https://arxiv.org/abs/2109.08909](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054202))
+This is the official implement of the RWD-Net from the paper [Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054202)
 
 Requirements
 ==
@@ -82,5 +82,5 @@ Part of codes are reused from the [SKU110K](https://github.com/eg4000/SKU110K_CV
 
 7.Contact
 --
-Liwen Zou(zouliwen1999@outlook.com](zouliwen1999@outlook.com))
+Liwen Zou[zouliwen1999@outlook.com](zouliwen1999@outlook.com)
 
