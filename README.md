@@ -1,7 +1,7 @@
 Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning
 ==
 
-This is the official implement of the RWD-Net from the paper [Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054202)
+This is the official code for the paper [Measuring the rogue wave pattern triggered from Gaussian perturbations by deep learning.](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.054202)
 
 Requirements
 ==
@@ -33,7 +33,7 @@ python 1_train.py
 And the trained models are saved in `RogueWaves/snapshots`.
 
 
-2.Model convert
+2.Model Convert
 ---
 once you cd RogueWave/ and run
 ```
@@ -78,7 +78,7 @@ for detecting your images.
 
 6.Acknowledgements
 --
-Part of codes are reused from the [SKU110K](https://github.com/eg4000/SKU110K_CVPR19). Thanks to Eran Goldman et al. for the codes of SKU-110K detector.
+Part of codes are referred from the [SKU110K](https://github.com/eg4000/SKU110K_CVPR19). Thanks to Eran Goldman et al. for the amazing SKU-110K detector.
 
 7.Contact
 --
